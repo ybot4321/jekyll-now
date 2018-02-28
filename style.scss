@@ -76,7 +76,13 @@ a {
     color: $blue;
   }
 }
+table {
+    width: 100%;
+}
 
+th {
+    height: 50px;
+}
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
